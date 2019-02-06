@@ -12,7 +12,7 @@ def cycle(n):
             continue
         if n % 2 != 0:
             n = (3 * n) + 1
-            ls.append(n)
+            ls.append(n)    
             continue
         if n == 1:
             ls.append(n)
