@@ -3,5 +3,6 @@
     "python.linting.enabled": false,
     "python.linting.mypyEnabled": false,
     "python.linting.pydocstyleEnabled": true,
-    "python.pythonPath": "C:\\ProgramData\\Anaconda3\\python.exe"
+    "python.pythonPath": "C:\\Users\\Kwame Yeboah\\Anaconda3\\python.exe",
+    "powermode.enabled": true
 }
